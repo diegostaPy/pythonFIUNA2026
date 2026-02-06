@@ -113,4 +113,4 @@ Al finalizar el curso, el estudiante podrá:
 ## 📩 Contacto
 Consultas vía:
 - Correo institucional:  dstalder@ing.una.py
-- Horarios de consulta:  Lunes de 9 a 10 Laboratorio de Ensayos de Equipos Médicos
+- Horarios de consulta:  Lunes de 9 a 10 Laboratorio de Ensayos de Equipos Médicosd
