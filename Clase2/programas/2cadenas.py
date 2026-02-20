@@ -58,6 +58,7 @@ print(texto[2:5])    # tho
 print(texto[:4])     # Pyth (desde inicio hasta 3)
 print(texto[2:])     # thon (desde índice 2 hasta el final)
 print(texto[-4:-1])  # tho (desde -4 hasta -2)
+print(texto[::-1])  # invertir la cadena
 
 #5. Métodos útiles con cadenas
 
